@@ -1,0 +1,9 @@
+numpy
+shapely
+pyproj
+geopandas
+matplotlib
+mavsdk
+pyulog
+pandas
+pytest

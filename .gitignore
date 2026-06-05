@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Testing / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Generated analysis artifacts
+analysis/output/*.png
+analysis/output/*.csv
+analysis/output/*.json
+analysis/output/*.md
+!analysis/output/.gitkeep
+
+# Government / MoA submission — private workspace only
+report/
+
+# Secrets / local overrides
+.env
+.env.*
+*.local.yaml
+credentials.json
+
+# PX4 / SITL (external checkout — not vendored)
+PX4-Autopilot/
