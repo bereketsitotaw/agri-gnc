@@ -102,4 +102,4 @@ agri-gnc/
 
 MIT — see [LICENSE](LICENSE).
 
-**Author:** Berekets Kidane · 2026
+**Author:** Bereket S. Kidane · 2026
